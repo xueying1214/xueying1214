@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hu Xinghong.
+- 👋 Hi, I’m 胡兴鸿.
 - 👀 I’m interested in technology.
 - 🌱 I’m currently learning SCM.
 - 💞️ I’m looking to collaborate on ...
